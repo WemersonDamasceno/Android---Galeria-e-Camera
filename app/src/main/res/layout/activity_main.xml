@@ -25,7 +25,7 @@
         android:id="@+id/buttonAddImg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Adicionar uma imagem"
+        android:text="@string/adicionar_uma_imagem"
         android:textSize="20sp"
         android:layout_gravity="center"
         android:layout_centerHorizontal="true"
